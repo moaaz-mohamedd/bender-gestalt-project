@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+matplotlib
+opencv-python
+scikit-image
+ipykernel
