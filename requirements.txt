@@ -7,3 +7,4 @@ opencv-python
 scikit-image
 ipykernel
 imbalanced-learn
+pymupdf
